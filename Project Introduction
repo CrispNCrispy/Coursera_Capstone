@@ -11,6 +11,8 @@ destinations based on several criteria such as visitor football (at least at a t
 most importantly on the current state of coronavirus in each of its states and districts (specifically number of cases). With 
 that being kept in mind, we could possibly use the findings to suggest the least dicey hotspots for that vacation we all 
 deserve.
+The target audience is every citizen of India who wishes to travel keeping in mind the current scenario of COVID-19. This 
+could also help travel agencies and local service industries market better.
 
 Data 
 I will need to firstly gather a database of as many (approx 500) touristic destinations as possible through web scraping or if 
