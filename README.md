@@ -3,6 +3,7 @@
 ## Folders
 - Kaggle: Projects based on datasets present in Kaggle.
 - Self_Projects: Projects picked up based on some ideas or interest.
+- Courses: Projects taken or inspired from courses done. These are edited to improve accuracy and experiment using different hyperparameters/architecures.
 
 ## Difficulty Scales
 - VeryEasy: Completed in a matter of a couple of hours. Datasets are likely to have been already prepared. Simple ML models to directly get effective results.
